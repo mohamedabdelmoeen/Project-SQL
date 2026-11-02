@@ -1,5 +1,5 @@
 --WELCOME
---TO GET THE TOP 10 PAYING JOBS AS Machine Learning Engineer  
+--TO GET THE TOP 10 PAYING JOBS AS Machine Learning Engineer !
 select 
         job_id,
         job_title,
